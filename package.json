@@ -2,14 +2,15 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
+  "Homepage": "https://dk649.github.io/tic-tac-toe",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "Homepage": "https://github.com/dk649/tic-tac-toe.git"
+    "react-scripts": "3.4.1",t
+
   },
   "scripts": {
     "start": "react-scripts start",
